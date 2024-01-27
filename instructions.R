@@ -11,3 +11,5 @@ use_git()
 # git add .gitignore TTT3.Rproj
 #Then commit the changes with: git commit -m "message"
 #Then reopen project in R and it should work!, git tab should be visible
+
+#New instruction
